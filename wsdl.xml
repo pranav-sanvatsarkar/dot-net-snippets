@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-Salesforce.com Metadata API version 44.0
-
-Copyright 2006-2018 Salesforce.com, inc. All Rights Reserved
--->
 <definitions targetNamespace="http://soap.sforce.com/2006/04/metadata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://soap.sforce.com/2006/04/metadata">
  <types>
   <xsd:schema elementFormDefault="qualified" targetNamespace="http://soap.sforce.com/2006/04/metadata">
@@ -7949,4 +7944,3 @@ Copyright 2006-2018 Salesforce.com, inc. All Rights Reserved
      <xsd:element name="apexPage" type="xsd:string"/>
      <xsd:element name="enabled" type="xsd:boolean"/>
     </xsd:sequence>
- 
